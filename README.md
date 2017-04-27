@@ -8,11 +8,11 @@ We were largly motivated by the increasing number of rips in our academic commun
 
 ## Installation
 
-rip u, learn yourself
+If you can't learn yourself then rip
 
 ## Tests
 
-Multiple rips were analyzed and encoded using techniques taught by Sujit Bae and these were implemented for easy rips for everyone.
+Multiple rips were analyzed and encoded to allow everyone access to easy rips.
 
 ## Contributors
 
