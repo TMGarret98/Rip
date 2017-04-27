@@ -20,4 +20,4 @@ Tyler Garrett, Armin Jamshidi
 
 ## License
 
-If you don't have a license then rip you fam.
+If you don't have a license then rip you fam...
