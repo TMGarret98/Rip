@@ -1,4 +1,4 @@
-sudo apt-get install toilet figlet#!/bin/bash
+#!/bin/bash
 
 sleepCount=0
 
