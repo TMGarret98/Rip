@@ -1,4 +1,4 @@
-#!/bin/bash
+sudo apt-get install toilet figlet#!/bin/bash
 
 sleepCount=0
 
@@ -16,31 +16,19 @@ printf "allocating ram..."
 sleep 1
 clear
 
+echo -ne '#####                     (33%)\r'
+sleep 1
+echo -ne '#############             (66%)\r'
+sleep 1
+echo -ne '#######################   (100%)\r'
+echo -ne '\n'
 
-for i in {1..181}
+for value in {1..5}
 do
-	printf "r"
-	for j in {1..500}
-	do
-		sleepCount=$((sleepCount+1))
-	done
-done
-for i in {1..181}
-do
-	printf "i"
-	for j in {1..500}
-	do
-		sleepCount=$((sleepCount+1))
-	done
-done
-for i in {1..181}
-do
-	printf "p"
-	for j in {1..500}
-	do
-		sleepCount=$((sleepCount+1))
-	done
+figlet rip rip rip rip rip
+sleep 0.25
 done
 
-echo "\n<rip complete>"
-echo "\n\nrip BETA V. <1.10>\n(C) Tyler Garrett 2017-18\n\n"
+
+printf "\n<rips completed>"
+printf "\n\nrip BETA V. <1.10>\n(C) Tyler Garrett 2017-18\n(C) Armin Jamshidi \n"
