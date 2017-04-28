@@ -23,7 +23,7 @@ sleep 1
 echo -ne '#######################   (100%)\r'
 echo -ne '\n'
 
-#Uses figlet to print a 5x5 matrix of riips
+#Uses figlet to print a 5x5 matrix of rips
 for value in {1..5}
 do
 figlet rip rip rip rip rip
